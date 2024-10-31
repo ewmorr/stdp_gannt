@@ -2,7 +2,7 @@ library(tidyr)
 library(ggplot2)
 source("ggplot_theme.txt")
 #in dir 'gannt_charts'
-gannt = read.csv("project_timeline.csv")
+gannt = read.csv("data/project_timeline.csv")
 acts = gannt$Activity %>% as.character %>% unique
 
 g.gannt = pivot_longer(gannt, cols = 4:5, names_to = "start.end", values_to = "month")

@@ -1,13 +1,19 @@
 Item,Activity,Project.element,Start,End
-1,Supplementary culture isolation,Obj. 1,1,3
-2,Genomic data analysis,Obj. 1,1,9
-3,Manuscript preparation,Obj. 1,6,12
-4,Growth assays (undergraduates),Obj. 2,1,12
-5,Undergraduate presentations,Obj. 2,12,14
-6,GWAS analysis,Obj. 2,9,15
-8,Manuscript preparation,Obj. 2,12,18
-9,Lit. review and data collection,Obj. 3,6,18
-10,Meta-anlalysis,Obj. 3,15,21
-11,Manuscript preparation,Obj. 3,18,24
-12,Labs and lectures,Teaching,1,6
-13,Labs and lectures,Teaching,12,18
+1,dPCR/LAMP probe development,Quantification and detection,1,6
+2,Sample collection,Both objectives,1,6
+3,"Lcm extraction, counting",Quantification and detection,2,6
+4,Life stage sorting,Life stage quantification,3,6
+5,dPCR/LAMP dilution series testing,Quantification and detection,5,12
+6,dPCR/LAMP unknowns testing,Quantification and detection,9,12
+7,Life stage RNAseq,Life stage quantification,5,12
+8,Life stage probe development,Life stage quantification,10,15
+9,Sample collection,Both objectives,9,14
+10,"Lcm extraction, counting",Quantification and detection,9,15
+11,Life stage sorting,Life stage quantification,12,15
+12,dPCR RNA/DNA validation,Quantification and detection,12,18
+13,DNA extraction-free LAMP validation,Quantification and detection,12,18
+14,Life stage probe validation,Life stage quantification,12,18
+15,Final tool refinement,Both objectives,18,24
+16,Protocol documentation/publication,Technology transfer,18,24
+17,Video documentation,Technology transfer,18,24
+18,Online repository documentation,Technology transfer,18,24
