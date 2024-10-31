@@ -1,0 +1,19 @@
+Item,Activity,Project.element,Start,End
+1,dPCR/LAMP probe development,Quantification and detection,1,6
+2,Sample collection,Both objectives,1,6
+3,"Lcm extraction, counting",Quantification and detection,2,6
+4,Life stage sorting,Life stage quantification,3,6
+5,dPCR/LAMP dilution series testing,Quantification and detection,5,12
+6,dPCR/LAMP unknowns testing,Quantification and detection,9,12
+7,Life stage RNAseq,Life stage quantification,5,12
+8,Life stage probe development,Life stage quantification,10,15
+9,Sample collection,Both objectives,9,14
+10,"Lcm extraction, counting",Quantification and detection,9,15
+11,Life stage sorting,Life stage quantification,12,15
+12,dPCR RNA/DNA validation,Quantification and detection,12,18
+13,DNA extraction-free LAMP validation,Quantification and detection,12,18
+14,Life stage probe validation,Life stage quantification,12,18
+15,Final tool refinement,Both objectives,18,24
+16,Protocol documentation/publication,Technology transfer,18,24
+17,Video documentation,Technology transfer,18,24
+18,Online repository documentation,Technology transfer,18,24

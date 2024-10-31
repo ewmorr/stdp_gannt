@@ -1,0 +1,13 @@
+Item,Activity,Project.element,Start,End
+1,Supplementary culture isolation,Obj. 1,1,3
+2,Genomic data analysis,Obj. 1,1,9
+3,Manuscript preparation,Obj. 1,6,12
+4,Growth assays (undergraduates),Obj. 2,1,12
+5,Undergraduate presentations,Obj. 2,12,14
+6,GWAS analysis,Obj. 2,9,15
+8,Manuscript preparation,Obj. 2,12,18
+9,Lit. review and data collection,Obj. 3,6,18
+10,Meta-anlalysis,Obj. 3,15,21
+11,Manuscript preparation,Obj. 3,18,24
+12,Labs and lectures,Teaching,1,6
+13,Labs and lectures,Teaching,12,18
